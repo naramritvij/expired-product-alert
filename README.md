@@ -1,4 +1,4 @@
-# Expired Product Alert System 🛒
+# Expired Product Alert System 
 
 A real-world Python + Oracle SQL tool that automatically scans store inventory, flags products that are **expired or expiring soon**, logs alerts to the database, and exports a timestamped CSV report — all from the command line.
 
