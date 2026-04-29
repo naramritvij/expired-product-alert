@@ -202,7 +202,7 @@ Retail stores, pharmacies, food banks, and restaurants all face losses from expi
 ---
 ## Sample Output
 
-![Scanner Output](screenshots/expire.jpg)
+![Scanner Output](expire.jpg)
 ---
 
 ## Author
