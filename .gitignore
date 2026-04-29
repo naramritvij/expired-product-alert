@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Reports output (generated files)
+reports/*.csv
+
+# VS Code
+.vscode/
+
+# Virtual environment
+venv/
+.venv/
