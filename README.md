@@ -200,6 +200,10 @@ Retail stores, pharmacies, food banks, and restaurants all face losses from expi
 - [ ] Discount suggestion engine (auto-calculate clearance price)
 
 ---
+## Sample Output
+
+![Scanner Output](screenshots/expire.JPG)
+---
 
 ## Author
 
